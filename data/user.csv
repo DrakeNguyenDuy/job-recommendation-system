@@ -1,0 +1,99 @@
+﻿id,tên,skills,address,Feature 4,Feature 5,Feature 6,Feature 7,Feature 8,Feature 9,Feature 10,Feature 11,Feature 12,Feature 13,Feature 14,Feature 15,Feature 16,Feature 17,Feature 18,Feature 19,Feature 20
+1, Nguyễn Văn A, Tiếng Anh; Quản lý dự án; Kế toán, Quận 1; Quận 7,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+2, Trần Thị B, Tiếng Nhật; Tiếng Trung; Lập trình viên, Quận 9,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+3, Lê Văn C, Tiếng Anh; Kế toán; Tư vấn tài chính, Quận 5; Quận 11,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+4, Phạm Thị D, Tiếng Hàn; Marketing, Quận 2; Quận 3; Quận 7,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+5, Võ Văn E, Tiếng Anh; Lập trình viên; Thiết kế đồ họa, Quận 1,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+6, Nguyễn Thị F, Tiếng Anh; Tư vấn tuyển dụng, Quận 4; Quận 10,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+7, Trần Văn G, Tiếng Anh; Lập trình viên, Quận 7; Quận 8,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+8, Lê Thị H, Tiếng Anh; Kế toán, Quận 4; Quận 7,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+9, Đỗ Văn I, Tiếng Anh; Tiếng Nhật; Lập trình viên, Quận 2,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+10, Bùi Thị K, Tiếng Anh; Tiếng Trung; Tư vấn tuyển dụng, Quận 1; Quận 3; Quận 5,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+11, Nguyễn Văn L, Tiếng Anh; Tiếng Nhật; Lập trình viên, Quận 4; Quận 7,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+12, Trần Thị M, Tiếng Anh; Quản lý dự án, Quận 10; Quận 11,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+13, Lê Văn N, Tiếng Anh; Kế toán; Tư vấn tài chính, Quận 5; Quận 11,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+14, Phạm Thị O, Tiếng Anh; Marketing, Quận 2; Quận 3; Quận 7,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+15, Võ Văn P, Tiếng Anh; Lập trình viên; Thiết kế đồ họa, Quận 1,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+16, Nguyễn Thị Q, Tiếng Anh; Tư vấn tuyển dụng, Quận 4; Quận 10,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+17, Trần Văn R, Tiếng Anh; Lập trình viên, Quận 7; Quận 8,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+18, Lê Thị S, Tiếng Anh; Kế toán, Quận 4; Quận 7,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+19, Đỗ Văn T, Tiếng Anh; Tiếng Nhật; Lập trình viên, Quận 2,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+20, Bùi Thị U, Tiếng Anh; Tiếng Trung; Tư vấn tuyển dụng, Quận 1,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+21, Nguyễn Thanh Tùng, Quản lý dự án; Quản lý sản phẩm; Marketing, Quận 1; Quận 2,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+22, Trần Thị Minh Tâm, Kế toán; Tài chính; Thủ tục hải quan, Quận 3,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+23, Lê Văn Hoàng, Lập trình viên Java; Lập trình viên Python, Quận 4,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+24, Phạm Văn Hiếu, Thiết kế đồ họa; Chỉnh sửa video, Quận 5,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+25, Nguyễn Văn Duy, Lập trình viên C++; Lập trình viên C#, Quận 6,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+26, Lê Thị Thu Trang, Kế toán; Tài chính, Quận 7; Quận 9,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+27, Đỗ Quang Huy, Lập trình viên Python; Lập trình viên Ruby, Quận 8,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+28, Trần Văn Nam, Quản lý dự án; Marketing, Quận 10; Quận 11,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+29, Nguyễn Thị Mai Anh, Kế toán; Thủ tục hải quan, Quận 12,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+30, Lê Minh Quân, Lập trình viên Java; Lập trình viên Ruby, Tân Bình; Tân Phú,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+31, Trần Thị Kim Ngân, Lập trình viên C#; Thiết kế đồ họa, Bình Thạnh; Gò Vấp,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+32, Hoàng Thị Ngọc Ánh, Kế toán; Tài chính; Thủ tục hải quan, Phú Nhuận,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+33, Đỗ Văn Thanh, Lập trình viên Python; Lập trình viên C#, Quận 3; Quận 4,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+34, Nguyễn Văn Minh, Thiết kế đồ họa; Chỉnh sửa video, Quận 5; Quận 6,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+35, Lê Thị Kim Liên, Lập trình viên Java; Lập trình viên Python, Quận 7,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+36, Phạm Quang Hưng, Quản lý dự án; Marketing, Quận 8; Quận 9,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+37, Trần Minh Hiền, Kế toán; Tài chính, Quận 10,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+38, Nguyễn Thị Thu Hương, Lập trình viên C#; Thiết kế đồ họa, Quận 11,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+39, Trần Văn Tân, Lập trình viên Java; Lập trình viên Python, Quận 12,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+40, Lê Thị Hồng Nhung, Thiết kế đồ họa; Chỉnh sửa video, Tân Bình; Tân Phú,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+41, Nguyễn Hồng Nhung, Marketing; Quản lý dự án; Photoshop; Social Media Marketing, Quận 1; Quận 3,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+42, Lê Anh Tuấn, Node.js; React; MongoDB; Express; HTML/CSS, Quận 7,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+43, Trần Đức Minh, C#; .NET Framework; SQL Server; ASP.NET, Quận 4; Quận 10,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+44, Đỗ Quang Đại, Java; Spring; Hibernate; MySQL; AngularJS, Quận 5; Quận 11,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+45, Nguyễn Thanh Trúc, Python; Machine Learning; Data Mining; Big Data, Quận 2; Quận 9,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+46, Lê Thị Lan, Marketing; Digital Marketing; Google Analytics; Facebook Ads, Quận 12; Tân Bình,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+47, Hoàng Văn Thanh, PHP; Laravel; MySQL; jQuery; HTML/CSS, Quận Tân Phú; Quận Bình Thạnh,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+48, Nguyễn Văn Đạt, React; Redux; TypeScript; Node.js; MongoDB, Quận Gò Vấp; Quận Phú Nhuận,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+49, Lê Ngọc Thùy, Java; Spring Boot; MySQL; AngularJS; HTML/CSS, Quận Bình Tân,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+50, Đỗ Thị Hoài Anh, Graphic Design; Adobe Illustrator; Adobe Photoshop; Branding, Quận 6; Quận 8,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+51, Võ Thị Thu Hiền, Python; Django; PostgreSQL; React; HTML/CSS, Quận 7; Quận 2,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+52, Lê Thị Ngọc Trâm, Digital Marketing; SEO; Google Analytics; Facebook Ads, Quận Tân Bình; Quận Bình Thạnh,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+53, Trần Đức Thắng, Java; Spring; Hibernate; MySQL; AngularJS, Quận 11; Quận 12,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+54, Nguyễn Thị Ngọc Mai, PHP; Laravel; MySQL; jQuery; HTML/CSS, Quận Bình Thạnh; Quận Phú Nhuận,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+55, Lê Văn Nam, Node.js; React; MongoDB; Express; HTML/CSS, Quận 2; Quận 4,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+56, Phạm Thị Thanh Hằng, Python; Machine Learning; Data Mining; Big Data, Quận 1; Quận 3,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+57, Nguyễn Thị Thùy Trang, C#; .NET Framework; SQL Server; ASP.NET, Quận 5; Quận 9,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+58, Trần Thanh Tùng, Marketing; Quản lý dự án; Photoshop; Social Media Marketing, Quận 7; Quận 10,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+59, Bùi Văn Thành, PHP; Laravel; MySQL; jQuery; HTML/CSS, Quận Tân Phú; Quận Bình Thạnh,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+60, Trần Minh Hiếu, React; Redux; TypeScript; Node.js; MongoDB, Quận Gò Vấp; Quận Phú Nhuận,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+61,Tiến Minh,Java; Python; Machine Learning,Quận 1; Quận 3; Quận 5,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+62,Phương Thảo,ReactJS; NodeJS; CSS; HTML,Quận 7; Quận 2; Quận 9,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+63,Nhật Minh,PHP; MySQL; Laravel; Symfony,Quận 12; Tân Phú; Bình Tân,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+64,Ngọc Anh,C++; Java; Python; Data Structures and Algorithms,Quận 10; Quận 11; Quận 5,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+65,Ngọc Trinh,Swift; Objective-C; iOS Development,Quận 1; Quận 3; Quận 5,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+66,Quang Huy,ReactJS; Redux; NodeJS; MongoDB,Quận 4; Quận 7; Quận 10,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+67,Hải Đăng,Java; Spring Framework; Hibernate,Quận 2; Quận 9; Thủ Đức,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+68,Quỳnh Trang,C#; .NET Framework; SQL Server,Quận 12; Tân Bình; Tân Phú,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+69,Thanh Tùng,PHP; WordPress; Joomla; Drupal,Quận 5; Quận 6; Quận 10,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+70,Thu Hương,Python; Data Mining; Data Analysis; R,Quận 1; Quận 3; Quận 10,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+71,Tiến Đạt,ReactJS; AngularJS; NodeJS; MongoDB,Quận 1; Quận 2; Quận 3,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+72,Minh Hiếu,Java; Spring Boot; Hibernate; Oracle,Quận 2; Quận 9; Thủ Đức,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+73,Phương Anh,HTML; CSS; JavaScript; jQuery,Quận 4; Quận 7; Quận 10,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+74,Thanh Nhàn,PHP; Laravel; MySQL; Bootstrap,Quận 12; Tân Phú; Bình Tân,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+75,Nam Trung,Python; Django; Flask; MongoDB,Quận 4; Quận 5; Quận 10,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+76,Thuận Hoàng,Java; J2EE; Spring; Struts,Quận 7; Quận 8; Quận 9,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+77,Quang Minh,ReactJS; Redux; NodeJS; MongoDB,Quận 1; Quận 2; Quận 3,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+78,Thu Hiền,PHP; CodeIgniter; MySQL; jQuery,Quận 1; Quận 5; Quận 6,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+79,Vân Anh,C#; ASP.NET; SQL Server; HTML; CSS,Quận 2; Quận 9; Thủ Đức,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+80,Ngọc Lan,Python; NumPy; SciPy; Scikit-learn,Quận 1; Quận 3; Quận 10,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+81,Văn Tuấn,Java; Spring Framework; Hibernate; PostgreSQL,Quận 4; Quận 5; Quận 11,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+82,Trung Kiên,ReactJS; NodeJS; MongoDB; AWS,Quận 7; Quận 4; Quận 10,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+83, Nguyễn Thị Thanh Huyền, Quản lý dự án; Tiếng Anh; Quản lý thời gian, Quận 1; Quận 2; Quận 3,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+84, Trần Văn Đức, Lập trình Java; C++; Python, Quận 5; Quận 6; Quận 10,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+85, Lê Thị Ngọc Ánh, Thiết kế đồ họa; Illustrator; Photoshop, Quận 7; Quận 8; Quận 4,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+86, Phạm Văn Lâm, Marketing; Quảng cáo Facebook; Quảng cáo Google, Quận 1; Quận 7; Quận 9,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+87, Trần Thị Thanh Tâm, Quản lý sản xuất; Quản lý chất lượng; Kiểm tra sản phẩm, Quận 12; Bình Tân; Tân Phú,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+88, Nguyễn Văn Tài, Kế toán; Excel; Quản lý tài chính, Quận 3; Quận 10; Quận Phú Nhuận,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+89, Trần Thị Kim Ngân, Nhân viên văn phòng; Điện thoại viên; Tiếp thị, Quận 1; Quận 5; Quận 8,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+90, Phạm Ngọc Ánh, Kế toán; Quản lý tài chính; Excel, Quận 7; Quận 9; Quận Thủ Đức,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+91, Lê Văn Thành, Lập trình PHP; MySQL; HTML/CSS, Quận 7; Quận 4; Quận 10,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+92, Trương Đình Thiện, Quản lý dự án; Tiếng Anh; Quản lý thời gian, Quận 1; Quận 2; Quận 3,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+93, Nguyễn Thị Thu Thủy, Kế toán; Quản lý tài chính; Excel, Quận 5; Quận 6; Quận 11,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+94, Phạm Thị Thúy Hạnh, Nhân viên kinh doanh; Tiếp thị; Sales, Quận 1; Quận 7; Quận Bình Thạnh,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+95, Lê Thị Thu Hiền, Marketing; Quảng cáo Facebook; Quảng cáo Google, Quận 7; Quận 9; Quận Thủ Đức,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+96, Võ Minh Đức, Thiết kế đồ họa; Illustrator; Photoshop, Quận 2; Quận 4; Quận 7,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1
+97, Nguyễn Thị Thu Trang, Quản lý dự án; Tiếng Anh; Quản lý thời gian, Quận 1; Quận 2; Quận 3,vf4.2,vf5.2,vf6.2,vf7.2,vf8.2,vf9.2,vf10.2,vf11.2,vf12.2,vf13.2,vf14.2,vf15.2,vf16.2,vf17.2,vf18.2,vf19.2,vf20.2
+98, Trần Văn Minh, Lập trình Java; C++; Python, Quận 5; Quận 6; Quận 10,vf4.1,vf5.1,vf6.1,vf7.1,vf8.1,vf9.1,vf10.1,vf11.1,vf12.1,vf13.1,vf14.1,vf15.1,vf16.1,vf17.1,vf18.1,vf19.1,vf20.1

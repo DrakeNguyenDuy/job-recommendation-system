@@ -1,0 +1,6 @@
+items:
+  file: user.csv
+  format: csv
+  header: true
+  entity_type: user
+  columns: [ids,name]
