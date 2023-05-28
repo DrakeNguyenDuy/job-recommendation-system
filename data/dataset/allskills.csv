@@ -1,0 +1,241 @@
+﻿id,skills
+1,Kỹ năng giao tiếp
+1,Kỹ năng thuyết trình
+1,Kỹ năng đàm phán
+2,Kỹ năng lập trình
+2,Kỹ năng giải quyết vấn đề
+3,Kỹ năng bán hàng
+4,Kỹ năng lãnh đạo
+4,Kỹ năng quản lý dự án
+5,Kỹ năng sử dụng phần mềm kế toán
+5,Kỹ năng quản lý tài chính
+5,Kỹ năng làm việc nhóm
+6,Kỹ năng sửa chữa
+6,Kỹ năng lắp đặt
+6,Kỹ năng bảo trì
+7,Kỹ năng tiếp thị
+7,Kỹ năng quảng cáo
+7,Kỹ năng phân tích thị trường
+8,Kỹ năng tuyển dụng
+8,Kỹ năng quản lý nhân sự
+9,Kỹ năng sử dụng máy tính
+9,Kỹ năng tổ chức công việc
+15,Python
+15,SQL
+15,ETL
+15,Big Data
+16,Javascript
+16,HTML/CSS
+16,React
+16,NodeJS
+17,AWS
+17,Docker
+17,Kubernetes
+17,Jenkins
+18,Tensorflow
+18,Scikit-learn
+18,NLP
+19,Penetration testing
+19,Network security
+19,Incident response
+20,Azure
+20,Google Cloud Platform
+21,R
+21,Statistics
+21,Machine Learning
+22,Solidity
+22,Ethereum
+22,Hyperledger Fabric
+22,Smart Contract
+23,Adobe Creative Suite
+23,Sketch
+23,Wireframing
+23,Prototyping
+24,Testing methodologies
+24,Test automation
+24,Bug tracking
+24,Selenium
+25,Java
+25,Swift
+25,React Native
+25,Kotlin
+26,Project management
+26,Agile
+26,Scrum
+26,Budgeting
+27,Linux
+27,Windows Server
+27,Virtualization
+27,Network configuration
+28,Technical writing
+28,Documentation
+28,Content management
+28,Editing
+29,Oracle
+29,SQL Server
+29,MySQL
+29,Database tuning
+30,Troubleshooting
+30,Helpdesk
+30,Remote support
+30,Active Directory
+31,Quay phim
+31,chỉnh sửa video
+31,thiết kế đồ họa
+31,kịch bản
+32,Biên tập âm thanh
+32,thiết kế âm thanh
+33,thiết kế logo
+33,chỉnh sửa hình ảnh
+34,Soạn thảo văn bản
+34,chỉnh sửa văn bản
+34,đề xuất nội dung
+35,Tạo nội dung kỹ thuật số
+35,quản lý dự án
+36,Viết kịch bản
+36,viết báo cáo
+36,viết nội dung truyền thông
+37,Thiết kế sản phẩm
+37,tạo mẫu
+37,thiết kế bao bì
+38,kỹ thuật quay phim
+39,Thiết kế trang web
+39,phát triển trang web
+39,SEO
+40,Quản lý truyền thông
+40,quản lý sự kiện
+41,Biên tập
+41,Phóng viên
+41,Viết lách
+42,Adobe Illustrator
+42,Adobe Photoshop
+43,Chụp ảnh
+43,Biên tập ảnh
+43,Photoshop
+44,Dịch thuật
+44,Tiếng Anh
+44,Tiếng Nhật
+45,Dựng phim
+45,Làm phim tài liệu
+46,Quảng cáo truyền thông
+46,Thiết kế nội dung
+47,Phát triển web
+47,HTML/CSS/Javascript
+48,Quản lý nhân sự
+48,Kế hoạch hóa
+49,Marketing trực tuyến
+49,Google Adwords
+50,Sáng tạo nội dung
+50,Marketing nội dung
+51,Giao tiếp
+51,Xử lý tình huống
+51,Sử dụng máy tính
+53,Giải quyết vấn đề
+54,Thuyết phục
+55,Lãnh đạo
+55,Quản lý
+56,Quản lý nội dung website
+56,Facebook Ads
+56,Google Analytics
+57,Tối ưu hóa nội dung
+57,tìm kiếm từ khóa
+57,phân tích thị trường
+58,Quản lý kênh Youtube
+58,quảng cáo trực tuyến
+58,xây dựng chiến lược Marketing
+59,Soạn thảo bài viết
+59,tạo nội dung
+59,phân tích khách hàng
+60,Xây dựng chiến lược
+60,sản xuất nội dung số
+62,Quản lý kênh truyền thông xã hội
+62,nghiên cứu khách hàng
+62,quảng bá thương hiệu
+63,Tổ chức sự kiện
+63,quản lý đối tác
+64,quản lý quảng cáo trực tuyến
+64,đo lường hiệu quả
+65,quản lý quảng cáo
+65,phát triển hệ thống PR
+66,xây dựng hệ thống PR
+66,nghiên cứu thị trường
+67,nghiên cứu sản phẩm
+67,quảng cáo sản phẩm
+68,Phát triển chiến lược
+68,sản xuất nội dung
+69,phát triển hệ thống bán lẻ
+70,Phân tích thị trường địa phương
+71,Điện tử
+71,Lắp ráp
+71,Sửa chữa điện tử
+72,Thiết kế mạch điện tử
+72,Sử dụng phần mềm thiết kế mạch điện tử
+73,Kiểm tra thiết bị điện tử
+74,Phát triển sản phẩm điện tử
+75,Công nghệ thông tin
+76,Hệ thống điện tử
+76,Lập trình vi điều khiển
+77,Viễn thông
+79,Tự động hóa
+81,Robot
+81,Cơ khí
+82,Thiết bị điện tử
+83,Điện tử công suất
+83,Điều khiển tự động
+85,Tương tác con người
+87,Quản lý tài chính
+87,Xử lý nhanh chóng thông tin khách hàng
+87,Tư vấn khách hàng
+87,Sử dụng phần mềm kế toán
+88,Phân tích tài chính
+88,Đánh giá tín dụng
+88,Kiểm tra hồ sơ khách hàng
+89,Lập kế hoạch kinh doanh
+89,Quản lý đội ngũ nhân viên
+89,Tìm kiếm khách hàng tiềm năng
+89,Thương lượng và ký kết hợp đồng
+90,Tư vấn bảo hiểm
+90,Giải đáp thắc mắc khách hàng
+90,Quản lý hồ sơ bảo hiểm
+91,Quản lý hoạt động chi nhánh
+91,Đào tạo nhân viên
+91,Phát triển khách hàng
+92,Tư vấn tín dụng
+92,Xử lý các thủ tục vay vốn
+93,Phát triển sản phẩm
+93,Tìm hiểu nhu cầu khách hàng
+93,Đưa ra phương án phát triển sản phẩm mới
+94,Giao dịch tại quầy
+94,Tư vấn sản phẩm
+94,Đối chiếu số liệu
+95,Hỗ trợ khách hàng
+95,Xử lý yêu cầu của khách hàng
+95,Hướng dẫn sử dụng sản phẩm ngân hàng
+96,Quản lý văn phòng
+96,sử dụng phần mềm văn phòng
+97,Tiếng Anh giao tiếp
+97,xử lý thông tin khách hàng
+98,Tính toán
+99,quản lý hồ sơ khách hàng
+100,Kiến thức về sản phẩm
+101,sử dụng công cụ quảng cáo trên mạng
+102,Quản lý tài liệu
+102,xử lý văn bản
+103,Tổ chức lịch làm việc
+103,sắp xếp các cuộc họp
+104,Tính toán thuế
+104,theo dõi chi phí
+105,Tính toán tài chính
+105,quản lý ngân sách
+106,Xây dựng quy trình quản lý
+106,đánh giá chất lượng
+107,phục vụ khách hàng
+108,Nghiên cứu văn bản pháp luật
+108,đưa ra ý kiến ​​pháp lý
+109,sử dụng phần mềm bán hàng
+110,Hỗ trợ khách hàng qua điện thoại
+110,email và chat
+111,Tính toán chi phí
+112,Sử dụng phần mềm CRM
+112,tìm kiếm khách hàng
+113,Cài đặt và bảo trì hệ thống mạng
